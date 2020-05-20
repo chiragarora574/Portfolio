@@ -1,0 +1,37 @@
+*
+{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("unnamed.jpg");
+    background-attachment:fixed;
+    background-repeat :no-repeat;
+    background-size:cover;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 7%;
+    font-weight: normal;
+    color:#181662;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+
+}
+ul{
+    list-style: square;
+    color: #181662;
+    font-size: x-large;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+a:link{
+    color: #181662;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+a:visited{
+    color: #181662;
+    font-family: 'Times New Roman', Times, serif;
+}
